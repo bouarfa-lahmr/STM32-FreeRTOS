@@ -19,7 +19,7 @@ This project demonstrates a complete cyber-physical system that combines embedde
 
 This is the robot used in this project:
 
-![Robot Used](path/to/your/robot_image.png)
+![Robot Used](robot_.PNG)
 
 
 ## 🏗️ System Architecture
@@ -56,6 +56,13 @@ This is the robot used in this project:
 │ (Speed/Position)│                 │   (Movement)    │
 └─────────────────┘                 └─────────────────┘
 ```
+
+## 🖥️ Control Station Interface
+
+This is the control station interface used to monitor and control the robot:
+
+![Control Station](interface-.PNG)
+
 
 ## 🛠️ Technologies Used
 

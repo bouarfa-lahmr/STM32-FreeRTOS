@@ -81,6 +81,12 @@ This is the control station interface used to monitor and control the robot:
 - **WebSocket** - Real-time web communication
 - **UART/HTTP** - Inter-device communication protocols
 
+## 📄 Detailed Project Report (French)
+
+To see more details about this project, you can consult the detailed report (French version):  
+👉 [Click here to view the full report (PDF)](projet_RTOS.pdf)
+
+
 ## 🚀 Installation & Setup
 
 ### Prerequisites
